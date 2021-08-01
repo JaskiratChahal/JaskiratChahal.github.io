@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.jaskiratchahal",
+    "sha256_cert_fingerprints":
+    ["37:F0:28:AB:23:8D:FD:D1:17:C6:ED:C5:BB:D0:A5:D6:F0:55:06:F0:FE:9A:A8:9C:19:BB:2F:7A:46:63:31:3D"]
+  }
+}]
