@@ -1,0 +1,2 @@
+#Redirect a sub folder to another site
+Redirect 301 / https://play.google.com/store/apps/details?id=com.jaskiratchahal.firebasedb
