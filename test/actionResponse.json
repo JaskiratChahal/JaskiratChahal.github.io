@@ -2,6 +2,9 @@
 	"action": {
 		"exit": true,
 		"url": "df://success",
-		"method": "POST"
+		"method": "POST",
+		"data": {
+			"some-additional-data": true
+		}
 	}
 }
