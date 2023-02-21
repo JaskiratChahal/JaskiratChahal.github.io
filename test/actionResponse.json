@@ -1,0 +1,7 @@
+{
+	"action": {
+		"exit": true,
+		"url": "df://success",
+		"method": "POST"
+	}
+}
