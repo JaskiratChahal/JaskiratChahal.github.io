@@ -1,7 +1,7 @@
 {
 	"action": {
 		"exit": true,
-		"url": "df://success",
+		"url": "/v3/account-requirements",
 		"method": "POST",
 		"data": {
 			"some-additional-data": true
